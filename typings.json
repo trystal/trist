@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "immutable": "registry:npm/immutable#3.7.6+20160411060006",
+    "lodash": "registry:npm/lodash#4.0.0+20160416211519"
+  }
+}
